@@ -1,4 +1,4 @@
 # herry
 This is my first repository.
 <br>
-Author:Harshik
+Author:Harshik (tanti)
